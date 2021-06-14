@@ -1,0 +1,49 @@
+.container{
+    max-width: 1200px;
+    margin: 25px auto;
+}
+.header{
+    background-color: rgba(237, 241, 240, 0.507);
+    margin: auto;
+}
+.header .header-l{
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    padding: 46px;
+    width: 640px;
+}
+.header .header-l p{
+    margin: 25px 0;
+    padding-right: 270px;
+}
+.header .header-r{
+    width: 400px;
+    background-color: #fff;
+    padding: 30px;
+}
+.header .header-r p{
+    color: #606060;
+    margin: 30px 0;
+}
+/* =====about========== */
+.about span{
+    display: table;
+    height: 2px;
+    width: 50px;
+    background-color: blue;
+    margin: 20PX 0;
+}
+.about p{
+    padding-right: 90px;
+}
+.about .image{
+    padding:25px;
+    height: 150px;
+    width: ;
+    border: 1px solid rgba(220, 220, 220, 0.349);
+    background-color: rgba(250, 246, 246, 0.527);
+}
+.about .image:hover{
+    background-color: rgb(238, 238, 253);
+}
